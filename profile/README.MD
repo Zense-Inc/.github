@@ -7,7 +7,7 @@ We are a tech startup based in Stockholm, Sweden focusing on sustainable solutio
 **Current team:**
 - Elias Singh
 - Karam Breji
-- Alex Jernström
+- Alexander Jernström
 
 For any inquiries, contact:  
 zensecomp@gmail.com
