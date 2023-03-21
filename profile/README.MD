@@ -9,4 +9,4 @@ We are a tech startup based in Stockholm, Sweden focusing on sustainable solutio
 - Karam Breji
 
 For any inquiries, contact:  
-business@zense.app
+business@valit.app
